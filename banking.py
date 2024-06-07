@@ -7,4 +7,4 @@ def withdraw(amount):
     global ACCOUNT_BALANCE
     pass
 def status():
-    pass
+    print("The account balance is ", ACCOUNT_BALANCE)
